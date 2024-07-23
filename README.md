@@ -28,7 +28,9 @@ Monthly post counts show slight fluctuations, with peaks in May and August. This
 
 
 **SKILLS AND TOOLS:**
-
+- **POWER BI :** Utilized advanced Power BI features such as Power Query, DAX Queries, Data Modeling, Dynamic Charts,Tables, Slicers and Buttons etc. Enhanced my data visualization skills to create clear and impactful charts, graphs and Dashboards.
+- **PowerPoint :** Used Power Point for graphics and visual elements, helping craft a clear and professional presentation.
+- **Chatgpt :** Assisted in generating content and refining the narrative for the project documentation.
 
 
 
